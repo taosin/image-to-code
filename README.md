@@ -1,2 +1,2 @@
-# iamge-to-code
+# image-to-code
 image or img generate to code
